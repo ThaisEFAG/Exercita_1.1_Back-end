@@ -105,4 +105,4 @@ Sinta-se à vontade para abrir Issues e Pull Requests. Siga as seguintes conven�
 
 ## 👤 Autores
 
-hiediferreira, juniorpinhodev, ThaisEFAG
+ThaisEFAG
